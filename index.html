@@ -1,12 +1,16 @@
 <html>
   <head>
     <title>Fox Hominid Official</title>
-    <thead>
-     <tr>
-      <th>Fox Hominid</th>
-     </tr>
-    </thead>
-    <style>
+    <div class="table-wrapper">
+      <table class="fixed-header-table">
+        <thead>
+          <tr>
+           <th>Fox Hominid</th>
+         </tr>
+        </thead>
+      </table>
+    </div>
+    <style>=
       body {
         background-color: #002020;
         position: relative;
@@ -16,8 +20,25 @@
         top: 400px;
         left: 450px;
       }
+      .table-wrapper {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+      .fixed-header-table {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+      }
       thead {
-        height: $header-height;
+        height: 75px;
         background-color: "8000ff";
         color: "00ffff";
         top: 0;
