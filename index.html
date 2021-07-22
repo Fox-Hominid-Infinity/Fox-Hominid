@@ -8,6 +8,8 @@
            <th>Fox Hominid</th>
          </tr>
         </thead>
+        <tbody>
+        </tbody>
       </table>
     </div>
     <style>=
@@ -36,6 +38,11 @@
         height: 100%;
         overflow-x: hidden;
         overflow-y: auto;
+      }
+      thead, tbody, tbody tr {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
       }
       thead {
         height: 75px;
