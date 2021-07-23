@@ -49,6 +49,13 @@ Games {
   top: 5;  
   left: 350;  
 }
+Videos {
+  position: fixed;
+  z-index: 4;
+  font-size: 40px;
+  top: 5;  
+  left: 450;  
+}
 .gameslink {
   text-decoration: none; 
 }
