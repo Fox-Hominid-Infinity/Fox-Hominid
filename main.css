@@ -47,7 +47,6 @@ Games {
   z-index: 4;
   font-size: 40px;
   top: 0;  
-  left: 0;
-  padding: 5px 270p;
+  left: 200;
   color: #00ffff
 }
