@@ -31,7 +31,7 @@ PurplePikachuMiner {
   top: 0;
   z-index: -1;
   left: -10;
-  padding: 5px 70px
+  padding: 5px 85px
 }
 #header-yellow {
   position: fixed;
@@ -40,7 +40,7 @@ PurplePikachuMiner {
   top: 0;
   z-index: 4;
   left: 0;
-  padding: 5px 135px
+  padding: 5px 150px
 }
 Games {
   position: fixed;
