@@ -26,7 +26,7 @@ PurplePikachuMiner {
   width: 100%;
   position: fixed;
   background-color: #8000ff;
-  color: #00FFFF;
+  color: #FF7F27;
   font-size: 40px;
   top: 0;
   z-index: 3;
@@ -66,7 +66,7 @@ a {
   width: 100%;
   position: fixed;
   background-color: #8000ff;
-  color: #FF7F27;
+  color: #00FFFF;
   font-size: 30px;
   bottom: 0;
   z-index: 3;
