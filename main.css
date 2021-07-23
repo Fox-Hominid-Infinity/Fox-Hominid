@@ -62,3 +62,14 @@ Videos {
 a {
   display: block;
 }
+.footer {
+  width: 100%;
+  position: fixed;
+  background-color: #8000ff;
+  color: #FF7F27;
+  font-size: 30px;
+  bottom: 0;
+  z-index: -1;
+  left: -10;
+  padding: 10px 80px;
+}
