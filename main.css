@@ -22,6 +22,12 @@ PurplePikachuMiner {
   top: 80px;
   left: 300px;
 }
+FoxHominidMiner {
+  position: absolute;
+  z-index: 1;
+  top: 80px;
+  left: 580px;
+}
 #header {
   width: 100%;
   position: fixed;
