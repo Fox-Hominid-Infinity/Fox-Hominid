@@ -30,8 +30,8 @@ PurplePikachuMiner {
   font-size: 40px;
   top: 0;
   z-index: -1;
-  left: 40;
-  padding: 5px 35px
+  left: -10;
+  padding: 5px 85px;
 }
 #header-yellow {
   position: fixed;
