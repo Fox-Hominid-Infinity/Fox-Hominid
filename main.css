@@ -52,3 +52,6 @@ Games {
 .gameslink {
   text-decoration: none; 
 }
+a {
+  display: block;
+}
