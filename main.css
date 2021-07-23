@@ -46,7 +46,9 @@ Games {
   position: fixed;
   z-index: 4;
   font-size: 40px;
-  text-decoration-style: none; 
   top: 5;  
   left: 350;  
+}
+.gameslink {
+  text-decoration: none; 
 }
