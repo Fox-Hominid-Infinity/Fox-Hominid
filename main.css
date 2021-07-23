@@ -23,8 +23,8 @@ PurplePikachuMiner {
   left: 300px;
 }
 #header {
-  width: 5000%;
-  position: absolute;
+  width: 100%;
+  position: fixed;
   background-color: #8000ff;
   color: #00ffff;
   font-size: 40px;
