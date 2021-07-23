@@ -44,11 +44,10 @@ PurplePikachuMiner {
 }
 Games {
   position: fixed;
-  color: #00ffff
-  top; 0;
-  top: 0;
-  font-size: 40px;
-  left: 0;
   z-index: 4;
-  padding: 5px 270px
+  font-size: 40px;
+  top: 0;  
+  left: 0;
+  padding: 5px 270p;
+  color: #00ffff
 }
