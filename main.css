@@ -80,6 +80,7 @@ a {
   padding: 10px 80px;
 }
 VideosFullscreen {
+  position: absolute;
   z-index: 1;
   top: 100px;
   left: 200px;
