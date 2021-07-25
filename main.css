@@ -80,7 +80,7 @@ a {
   padding: 10px 80px;
 }
 VideosFullscreen {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  z-index: 1;
+  top: 100px;
+  left: 200px;
 }
