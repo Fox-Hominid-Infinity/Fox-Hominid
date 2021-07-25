@@ -79,3 +79,8 @@ a {
   left: -10;
   padding: 10px 80px;
 }
+VideosFullscreen {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
