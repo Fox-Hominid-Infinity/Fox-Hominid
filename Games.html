@@ -9,9 +9,12 @@
       var TotalScore;
       var TotalScoreVars = 0;
       var ore_block_last_value_FHM = 0;
+      var Owned_Buy_Got_Character_Object = 0;
 
       ore_block_last_value_FHM = JSON.parse(localStorage.getItem("OreBlockLastSaveFHM"));
+      Owned_Buy_Got_Character_Object = JSON.parse(localStorage.getItem("OwnedCharacterSaveFHEY"));
       TotalScoreVars = ore_block_last_value_FHM
+      TotalScoreVars += Owned_Buy_Got_Character_Object
       document.getElementById("TotalGameScore").innerHTML = ("Total Game Score: " + TotalScoreVars);
     </script>
     <div id="header">Fox</div>
