@@ -111,6 +111,11 @@ a {
   z-index: 1;
   left: 450;
 }
+.FixedVideosFooter {
+  position: absolute;
+  top: 1720;
+  z-index: 1;
+}
 VideosFullscreen {
   position: absolute;
   z-index: 1;
