@@ -35,7 +35,7 @@ FoxHominidMiner {
   color: #FF7F27;
   font-size: 40px;
   top: 0;
-  z-index: 3;
+  z-index: 7;
   left: -10;
   padding: 5px 100px;
 }
@@ -44,7 +44,7 @@ FoxHominidMiner {
   color: #FFDF30;
   font-size: 40px;
   top: 0;
-  z-index: 4;
+  z-index: 8;
   left: 0;
   padding: 5px 165px
 }
@@ -58,14 +58,14 @@ FoxHominidMiner {
 }
 Games {
   position: fixed;
-  z-index: 4;
+  z-index: 8;
   font-size: 40px;
   top: 5;  
   left: 350;  
 }
 Videos {
   position: fixed;
-  z-index: 4;
+  z-index: 8;
   font-size: 40px;
   top: 5;  
   left: 520;  
@@ -83,9 +83,33 @@ a {
   color: #00FFFF;
   font-size: 30px;
   bottom: 0;
-  z-index: 3;
+  z-index: 8;
   left: -10;
   padding: 10px 80px;
+}
+.WelcomeCSS {
+  position: absolute;
+  color: #00FFFF;
+  font-size: 30px;
+  bottom: 80;
+  z-index: 1;
+  left: 200;
+}
+.WelcomeCSS1 {
+  position: absolute;
+  color: #00FFFF;
+  font-size: 30px;
+  bottom: 120;
+  z-index: 1;
+  left: 100;
+}
+.WelcomeCSS2 {
+  position: absolute;
+  color: #00FFFF;
+  font-size: 30px;
+  bottom: 160;
+  z-index: 1;
+  left: 150;
 }
 VideosFullscreen {
   position: absolute;
