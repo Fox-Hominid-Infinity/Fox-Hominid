@@ -99,17 +99,17 @@ a {
   position: absolute;
   color: #00FFFF;
   font-size: 30px;
-  top: 160;
+  top: 180;
   z-index: 1;
-  left: 300;
+  left: 390;
 }
 .WelcomeCSS2 {
   position: absolute;
   color: #00FFFF;
   font-size: 30px;
-  top: 200;
+  top: 220;
   z-index: 1;
-  left: 360;
+  left: 450;
 }
 VideosFullscreen {
   position: absolute;
