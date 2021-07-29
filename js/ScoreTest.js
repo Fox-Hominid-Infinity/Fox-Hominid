@@ -1,3 +1,6 @@
+var foo = 'bar';
+foo.substring(1); // "ar"
+
 var TotalScoreVars = 0;
 var ScoreVars_FHM = 0;
 var ScoreVars_PPM = 0;
