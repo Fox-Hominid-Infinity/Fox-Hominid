@@ -48,14 +48,6 @@ FoxHominidMiner {
   left: 0;
   padding: 5px 165px
 }
-#TotalGameScore {
-  color: #00ffff;
-  font-size: 40px;
-  position: absolute;
-  z-index: 1;
-  top: 80px;
-  left: 400px;
-}
 Games {
   position: fixed;
   z-index: 8;
@@ -121,28 +113,4 @@ VideosFullscreen {
   z-index: 1;
   top: 100px;
   left: 200px;
-}
-#FHEYScore {
-  color: #00ffff;
-  font-size: 30px;
-  position: absolute;
-  z-index: 1;
-  top: 400px;
-  left: 20px;
-}
-#PPMScore {
-  color: #00ffff;
-  font-size: 30px;
-  position: absolute;
-  z-index: 1;
-  top: 400px;
-  left: 300px;
-}
-#FHMScore {
-  color: #00ffff;
-  font-size: 30px;
-  position: absolute;
-  z-index: 1;
-  top: 400px;
-  left: 580px;
 }
