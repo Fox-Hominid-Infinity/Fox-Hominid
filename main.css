@@ -127,22 +127,22 @@ VideosFullscreen {
   font-size: 30px;
   position: absolute;
   z-index: 1;
-  top: 400px;
-  left: 20px;
+  top: 370px;
+  left: 60px;
 }
 #PPMScore {
   color: #00ffff;
   font-size: 30px;
   position: absolute;
   z-index: 1;
-  top: 400px;
-  left: 300px;
+  top: 370px;
+  left: 340px;
 }
 #FHMScore {
   color: #00ffff;
   font-size: 30px;
   position: absolute;
   z-index: 1;
-  top: 400px;
-  left: 580px;
+  top: 370px;
+  left: 620px;
 }
