@@ -18,6 +18,6 @@ ScoreVars_PPM = ore_block_last_value_PPM
 ScoreVars_FHEY = Owned_Buy_Got_Character_Object
 
 var element = document.getElementById("TotalGameScore").innerHTML = ("Total Game Score: " + TotalScoreVars);
-var element1 = var element = var element = document.getElementById("FHEYScore").innerHTML = ("Score: " + ScoreVars_FHEY);
-var element2 = var element = document.getElementById("PPMScore").innerHTML = ("Score: " + ScoreVars_PPM);
+var element1 = document.getElementById("FHEYScore").innerHTML = ("Score: " + ScoreVars_FHEY);
+var element2 = document.getElementById("PPMScore").innerHTML = ("Score: " + ScoreVars_PPM);
 var element3 = document.getElementById("FHMScore").innerHTML = ("Score: " + ScoreVars_FHM);
