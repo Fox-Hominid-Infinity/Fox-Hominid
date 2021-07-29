@@ -127,7 +127,7 @@ VideosFullscreen {
   font-size: 30px;
   position: absolute;
   z-index: 1;
-  top: 270px;
+  top: 400px;
   left: 20px;
 }
 #PPMScore {
@@ -135,7 +135,7 @@ VideosFullscreen {
   font-size: 30px;
   position: absolute;
   z-index: 1;
-  top: 270px;
+  top: 400px;
   left: 300px;
 }
 #FHMScore {
@@ -143,6 +143,6 @@ VideosFullscreen {
   font-size: 30px;
   position: absolute;
   z-index: 1;
-  top: 270px;
+  top: 400px;
   left: 580px;
 }
