@@ -122,3 +122,27 @@ VideosFullscreen {
   top: 100px;
   left: 200px;
 }
+#FHEYScore {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+  z-index: 1;
+  top: 270px;
+  left: 20px;
+}
+#PPMScore {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+  z-index: 1;
+  top: 270px;
+  left: 300px;
+}
+#FHMScore {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+  z-index: 1;
+  top: 270px;
+  left: 580px;
+}
