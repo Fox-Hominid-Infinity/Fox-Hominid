@@ -4,15 +4,16 @@ var ScoreVars_PPM = 0;
 var ScoreVars_FHEY = 0;
 var Owned_Buy_Got_Character_Object = 0;
 var ore_block_last_value_FHM = 0;
-var ore_block_last_value = 0;
+var ore_block_last_value_PPM = 0;
 
 ore_block_last_value_FHM = JSON.parse(localStorage.getItem("OreBlockLastSaveFHM"));
-ore_block_last_value = JSON.parse(localStorage.getItem("OreBlockLastSave"));
+ore_block_last_value_PPM = JSON.parse(localStorage.getItem("OreBlockLastSave"));
 Owned_Buy_Got_Character_Object = JSON.parse(localStorage.getItem("OwnedCharacterSaveFHEY"));
+
 TotalScoreVars = ore_block_last_value_FHM
-TotalScoreVars += ore_block_last_value
+TotalScoreVars += ore_block_last_value_PPM
 TotalScoreVars += Owned_Buy_Got_Character_Object
 
 ScoreVars_FHM += ore_block_last_value_FHM
-ScoreVars_PPM += ore_block_last_value
+ScoreVars_PPM += ore_block_last_value_PPM
 ScoreVars_FHEY += Owned_Buy_Got_Character_Object
