@@ -1,5 +1,4 @@
-var foo = 'bar';
-foo.substring(1); // "ar"
+var element = document.getElementById(id);
 
 var TotalScoreVars = 0;
 var ScoreVars_FHM = 0;
@@ -20,9 +19,7 @@ ScoreVars_FHM = ore_block_last_value_FHM
 ScoreVars_PPM = ore_block_last_value_PPM
 ScoreVars_FHEY = Owned_Buy_Got_Character_Object
 
-if (foo !== undefined) {
-  document.getElementById("TotalGameScore").innerHTML = ("Total Game Score: " + TotalScoreVars);
-  document.getElementById("FHEYScore").innerHTML = ("Score: " + ScoreVars_FHEY);
-  document.getElementById("PPMScore").innerHTML = ("Score: " + ScoreVars_PPM);
-  document.getElementById("FHMScore").innerHTML = ("Score: " + ScoreVars_FHM);
-}
+document.getElementById("TotalGameScore").innerHTML = ("Total Game Score: " + TotalScoreVars);
+document.getElementById("FHEYScore").innerHTML = ("Score: " + ScoreVars_FHEY);
+document.getElementById("PPMScore").innerHTML = ("Score: " + ScoreVars_PPM);
+document.getElementById("FHMScore").innerHTML = ("Score: " + ScoreVars_FHM);
