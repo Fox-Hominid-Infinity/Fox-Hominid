@@ -114,3 +114,35 @@ VideosFullscreen {
   top: 100px;
   left: 200px;
 }
+#TotalGameScore {
+  color: #00ffff;
+  font-size: 40px;
+  position: absolute;
+  z-index: 1;
+  top: 80px;
+  left: 400px;
+}
+#FHEYScore {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+  z-index: 1;
+  top: 400px;
+  left: 20px;
+}
+#PPMScore {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+  z-index: 1;
+  top: 400px;
+  left: 300px;
+}
+#FHMScore {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+  z-index: 1;
+  top: 400px;
+  left: 580px;
+}
