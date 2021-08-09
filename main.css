@@ -121,6 +121,12 @@ VideosFullscreen {
   top: 100px;
   left: 200px;
 }
+GamesFullscreen {
+  position: absolute;
+  z-index: 1;
+  top: 100px;
+  left: 200px;
+}
 #TotalGameScore {
   color: #00ffff;
   font-size: 40px;
