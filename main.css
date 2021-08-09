@@ -123,7 +123,7 @@ a {
 VideosFullscreen {
   position: absolute;
   z-index: 1;
-  top: 95px;
+  top: 90px;
   left: 80px;
 }
 GamesFullscreen {
@@ -132,6 +132,12 @@ GamesFullscreen {
   top: 232px;
   left: 370px;
   transform: scale(1.7);
+}
+DressUpFullscreen {
+  position: absolute;
+  z-index: 1;
+  top: 90px;
+  left: 80px;
 }
 #TotalGameScore {
   color: #00ffff;
