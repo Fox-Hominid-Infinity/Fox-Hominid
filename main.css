@@ -124,9 +124,9 @@ VideosFullscreen {
 GamesFullscreen {
   position: absolute;
   z-index: 1;
-  top: 100px;
-  left: 200px;
-  transform: scale(1.28);
+  top: 170px;
+  left: 400px;
+  transform: scale(1.8);
 }
 #TotalGameScore {
   color: #00ffff;
