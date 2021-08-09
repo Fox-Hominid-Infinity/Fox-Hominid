@@ -112,7 +112,12 @@ a {
 }
 .FixedVideosFooter {
   position: absolute;
-  top: 1720;
+  top: 1700;
+  z-index: 1;
+}
+.FixedGamesFooter {
+  position: absolute;
+  top: 1120;
   z-index: 1;
 }
 VideosFullscreen {
