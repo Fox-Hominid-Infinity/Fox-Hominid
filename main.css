@@ -126,6 +126,8 @@ GamesFullscreen {
   z-index: 1;
   top: 100px;
   left: 200px;
+  width: 120%;
+  height: 120%;
 }
 #TotalGameScore {
   color: #00ffff;
