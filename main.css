@@ -117,19 +117,19 @@ a {
 }
 .FixedGamesFooter {
   position: absolute;
-  top: 1120;
+  top: 960;
   z-index: 1;
 }
 VideosFullscreen {
   position: absolute;
   z-index: 1;
-  top: 100px;
+  top: 95px;
   left: 80px;
 }
 GamesFullscreen {
   position: absolute;
   z-index: 1;
-  top: 222px;
+  top: 232px;
   left: 370px;
   transform: scale(1.7);
 }
