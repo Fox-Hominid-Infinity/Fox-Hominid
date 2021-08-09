@@ -119,7 +119,7 @@ VideosFullscreen {
   position: absolute;
   z-index: 1;
   top: 100px;
-  left: 200px;
+  left: 80px;
 }
 GamesFullscreen {
   position: absolute;
