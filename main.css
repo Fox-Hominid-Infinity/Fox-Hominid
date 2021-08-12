@@ -171,3 +171,17 @@ DressUpFullscreen {
   top: 370px;
   left: 620px;
 }
+
+Years10OfFoxHominid {
+  position: absolute;
+  z-index: 1;
+  top: 90px;
+  left: 20px;
+}
+
+FoxHominidNewVsFoxHominidOld {
+  position: absolute;
+  z-index: 1;
+  top: 90px;
+  left: 300px;
+}
