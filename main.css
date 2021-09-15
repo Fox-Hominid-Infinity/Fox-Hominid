@@ -69,6 +69,13 @@ DressUp {
   top: 5;  
   left: 690;  
 }
+Apps {
+  position: fixed;
+  z-index: 8;
+  font-size: 40px;
+  top: 5;  
+  left: 800;  
+}
 .gameslink {
   text-decoration: none; 
 }
