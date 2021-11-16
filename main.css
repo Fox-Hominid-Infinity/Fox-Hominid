@@ -10,13 +10,13 @@ FoxHominidLogo {
   top: 4px;
   left: 4px;
 }
-FoxHominidEvolutionYear {
+PurplePikachuMiner {
   position: absolute;
   z-index: 1;
   top: 160px;
   left: 20px;
 }
-PurplePikachuMiner {
+FoxHominidEvolutionYear {
   position: absolute;
   z-index: 1;
   top: 160px;
@@ -27,6 +27,12 @@ FoxHominidMiner {
   z-index: 1;
   top: 160px;
   left: 580px;
+}
+MinecraftChickenMiner {
+  position: absolute;
+  z-index: 1;
+  top: 160px;
+  left: 860px;
 }
 #header {
   width: 100%;
@@ -161,7 +167,7 @@ DressUpFullscreen {
   top: 80px;
   left: 400px;
 }
-#FHEYScore {
+#PPMScore {
   color: #00ffff;
   font-size: 30px;
   position: absolute;
@@ -169,7 +175,7 @@ DressUpFullscreen {
   top: 370px;
   left: 60px;
 }
-#PPMScore {
+#FHEYScore {
   color: #00ffff;
   font-size: 30px;
   position: absolute;
@@ -185,6 +191,15 @@ DressUpFullscreen {
   top: 370px;
   left: 620px;
 }
+#MCMScore {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+  z-index: 1;
+  top: 370px;
+  left: 900px;
+}
+
 
 Years10OfFoxHominid {
   position: absolute;
