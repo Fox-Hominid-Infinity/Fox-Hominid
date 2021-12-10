@@ -163,7 +163,8 @@ DressUpFullscreen {
   position: absolute;
   z-index: 1;
   top: 90px;
-  left: 80px;
+  left: 25%;
+  width: 50%;
 }
 #TotalGameScore {
   color: #00ffff;
