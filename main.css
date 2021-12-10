@@ -158,7 +158,7 @@ GamesFullscreen {
   z-index: 1;
   top: 232px;
   width: 50%;
-  left: 25%;  
+  left: 37%;  
   transform: scale(1.5);
 }
 DressUpFullscreen {
@@ -166,7 +166,7 @@ DressUpFullscreen {
   z-index: 1;
   top: 90px;
   width: 50%;
-  left: 13%;  
+  left: 14%;  
 }
 #TotalGameScore {
   color: #00ffff;
