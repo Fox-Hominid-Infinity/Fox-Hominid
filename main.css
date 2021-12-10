@@ -107,6 +107,7 @@ a {
   padding: 10px 80px;
 }
 .WelcomeCSS {
+  width: 50%;
   text-align: center;
   position: absolute;
   color: #00FFFF;
@@ -115,6 +116,7 @@ a {
   z-index: 1;
 }
 .WelcomeCSS1 {
+  width: 50%;
   text-align: center;
   position: absolute;
   color: #00FFFF;
@@ -123,6 +125,7 @@ a {
   z-index: 1;
 }
 .WelcomeCSS2 {
+  width: 50%;
   text-align: center;
   position: absolute;
   color: #00FFFF;
