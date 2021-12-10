@@ -150,14 +150,16 @@ VideosFullscreen {
   position: absolute;
   z-index: 1;
   top: 90px;
-  left: 80px;
+  left: 25%;
+  width: 50%;
 }
 GamesFullscreen {
   position: absolute;
   z-index: 1;
   top: 232px;
-  left: 370px;
-  transform: scale(1.7);
+  left: 25%;
+  width: 50%;
+  transform: scale(1.6);
 }
 DressUpFullscreen {
   position: absolute;
