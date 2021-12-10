@@ -112,7 +112,7 @@ a {
   font-size: 60px;
   top: 80;
   z-index: 1;
-  left: 340;
+  left: 50%;
 }
 .WelcomeCSS1 {
   position: absolute;
@@ -120,7 +120,7 @@ a {
   font-size: 30px;
   top: 180;
   z-index: 1;
-  left: 390;
+  left: 50%;
 }
 .WelcomeCSS2 {
   position: absolute;
@@ -128,7 +128,7 @@ a {
   font-size: 30px;
   top: 220;
   z-index: 1;
-  left: 450;
+  left: 50%;
 }
 .FixedVideosFooter {
   position: absolute;
