@@ -165,10 +165,9 @@ DressUpFullscreen {
   position: absolute;
   z-index: 1;
   top: 90px;
-  align-items: center;
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto }
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) }
 }
 #TotalGameScore {
   color: #00ffff;
