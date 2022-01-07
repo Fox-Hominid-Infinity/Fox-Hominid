@@ -167,7 +167,8 @@ DressUpFullscreen {
   top: 90px;
   align-items: center;
   justify-content: center;
-  left: 22%;  
+  margin-left: auto;
+  margin-right: auto }
 }
 #TotalGameScore {
   color: #00ffff;
