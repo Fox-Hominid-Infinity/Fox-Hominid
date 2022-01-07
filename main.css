@@ -164,10 +164,10 @@ GamesFullscreen {
 DressUpFullscreen {
   position: absolute;
   z-index: 1;
-  top: 50%;
+  top: 100px;
   left: 50%;
   margin-right: -50%;
-  transform: translate(-50%, 30%) }
+  transform: translate(-50%, 0%) }
 }
 #TotalGameScore {
   color: #00ffff;
