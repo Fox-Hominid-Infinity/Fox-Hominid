@@ -177,6 +177,14 @@ DressUpFullscreen {
   top: 80px;
   left: 400px;
 }
+TotalGameScore {
+  color: #00ffff;
+  font-size: 40px;
+  position: absolute;
+  z-index: 1;
+  top: 80px;
+  left: 400px;
+}
 #PPMScore {
   color: #00ffff;
   font-size: 30px;
