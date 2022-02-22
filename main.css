@@ -6,6 +6,7 @@ body {
 }
 ParticleFix {
   position: fixed;
+  top: -20px;
   z-index: -1;
 }
 
