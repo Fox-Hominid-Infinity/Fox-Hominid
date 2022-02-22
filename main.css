@@ -1,3 +1,9 @@
+#example1 {
+  background: url(images/WebackgroundHexagonDarkCyan.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
 body {        
   background-color: #002020;
   position: relative;
