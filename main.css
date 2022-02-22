@@ -167,7 +167,7 @@ DressUpFullscreen {
   top: 100px;
   left: 50%;
   margin-right: -50%;
-  transform: translate(-50%, 0%) }
+  transform: translate(-50%, 0%)
 }
 #TotalGameScore {
   color: #00ffff;
