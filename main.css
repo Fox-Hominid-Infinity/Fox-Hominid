@@ -2,7 +2,7 @@ body {
   background-image:    url(images/WebackgroundHexagonDarkCyan.gif);
   background-size:     cover;                      /* <------ */
   background-repeat:   no-repeat;
-  background-position: center center; 
+  background-position: center 50%; 
   position: relative;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 100;
