@@ -1,6 +1,7 @@
 body {     
   background-image:    url(images/WebackgroundHexagonDarkCyan.gif);
   background-size:     cover;                      /* <------ */
+  background-attachment: fixed;
   background-repeat:   no-repeat;
   background-position: center 0%; 
   position: relative;
