@@ -4,6 +4,11 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 100;
 }
+ParticleFix {
+  position: fixed;
+  z-index: 1;
+}
+
 FoxHominidLogo {
   position: fixed;
   z-index: 8;
