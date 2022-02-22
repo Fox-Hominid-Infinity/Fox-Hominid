@@ -169,14 +169,6 @@ DressUpFullscreen {
   margin-right: -50%;
   transform: translate(-50%, 0%)
 }
-#TotalGameScore {
-  color: #00ffff;
-  font-size: 40px;
-  position: absolute;
-  z-index: 1;
-  top: 80px;
-  left: 400px;
-}
 #TotalGameScoreFixed {
   color: #00ffff;
   font-size: 40px;
