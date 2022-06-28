@@ -15,7 +15,7 @@ ore_block_last_value_MCM = JSON.parse(localStorage.getItem("OreBlockLastSaveMCM"
 
 
 TotalScoreVars = ore_block_last_value_MCM
-TotalScoreVars = ore_block_last_value_FHM
+TotalScoreVars += ore_block_last_value_FHM
 TotalScoreVars += ore_block_last_value
 TotalScoreVars += Owned_Buy_Got_Character_Object
 
