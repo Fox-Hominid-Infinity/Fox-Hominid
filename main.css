@@ -24,25 +24,7 @@ FoxHominidLogo {
 
 
 .buttonglowhover:hover {
-  transition: .3s ease-in-out .3s;
-  cursor: pointer;
-  transform: scale(1.15);
-  box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
-}
-.buttonglowhover1:hover {
-  transition: .3s ease-in-out .3s;
-  cursor: pointer;
-  transform: scale(1.15);
-  box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
-}
-.buttonglowhover2:hover {
-  transition: .3s ease-in-out .3s;
-  cursor: pointer;
-  transform: scale(1.15);
-  box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
-}
-.buttonglowhover3:hover {
-  transition: .3s ease-in-out .3s;
+  transition: .3s ease-in-out 0s;
   cursor: pointer;
   transform: scale(1.15);
   box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
