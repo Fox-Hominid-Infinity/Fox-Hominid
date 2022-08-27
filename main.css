@@ -21,29 +21,36 @@ FoxHominidLogo {
   top: 4px;
   left: 4px;
 }
-PurplePikachuMiner:hover {
+
+
+buttonglowhover:hover {
   box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
+}
+
+
+PurplePikachuMiner {
+  border-radius: 12%;
   position: absolute;
   z-index: 2;
   top: 160px;
   left: 20px;
 }
-FoxHominidEvolutionYear:hover {
-  box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
+FoxHominidEvolutionYear {
+  border-radius: 12%;
   position: absolute;
   z-index: 2;
   top: 160px;
   left: 300px;
 }
-FoxHominidMiner:hover {
-  box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
+FoxHominidMiner {
+  border-radius: 12%;
   position: absolute;
   z-index: 2;
   top: 160px;
   left: 580px;
 }
-MinecraftChickenMiner:hover {
-  box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
+MinecraftChickenMiner {
+  border-radius: 12%;
   position: absolute;
   z-index: 2;
   top: 160px;
