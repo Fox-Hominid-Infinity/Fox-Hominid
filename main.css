@@ -24,49 +24,53 @@ FoxHominidLogo {
 
 
 .buttonglowhover:hover {
+  transition: .2s ease-in-out 0s;
   cursor: pointer;
-  transform: scale(1.17);
+  transform: scale(1.15);
   box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
 }
 .buttonglowhover1:hover {
+  transition: .2s ease-in-out 0s;
   cursor: pointer;
-  transform: scale(1.17);
+  transform: scale(1.15);
   box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
 }
 .buttonglowhover2:hover {
+  transition: .2s ease-in-out 0s;
   cursor: pointer;
-  transform: scale(1.17);
+  transform: scale(1.15);
   box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
 }
 .buttonglowhover3:hover {
+  transition: .2s ease-in-out 0s;
   cursor: pointer;
-  transform: scale(1.17);
+  transform: scale(1.15);
   box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
 }
 
 PurplePikachuMiner {
-  border-radius: 12%;
+  border-radius: 16%;
   position: absolute;
   z-index: 2;
   top: 160px;
   left: 20px;
 }
 FoxHominidEvolutionYear {
-  border-radius: 12%;
+  border-radius: 16%;
   position: absolute;
   z-index: 2;
   top: 160px;
   left: 300px;
 }
 FoxHominidMiner {
-  border-radius: 12%;
+  border-radius: 16%;
   position: absolute;
   z-index: 2;
   top: 160px;
   left: 580px;
 }
 MinecraftChickenMiner {
-  border-radius: 12%;
+  border-radius: 16%;
   position: absolute;
   z-index: 2;
   top: 160px;
