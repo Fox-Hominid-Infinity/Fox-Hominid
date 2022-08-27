@@ -246,6 +246,7 @@ TotalGameScore {
 }
 
 Years10OfFoxHominid {
+  transition: .3s ease-in-out 0s;
   position: absolute;
   z-index: 1;
   top: 90px;
@@ -253,6 +254,7 @@ Years10OfFoxHominid {
 }
 
 FoxHominidNewVsFoxHominidOld {
+  transition: .3s ease-in-out 0s;
   position: absolute;
   z-index: 1;
   top: 90px;
