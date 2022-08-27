@@ -23,10 +23,26 @@ FoxHominidLogo {
 }
 
 
-buttonglowhover:hover {
+.buttonglowhover:hover {
+  cursor: pointer;
+  transform: scale(1.17);
   box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
 }
-
+.buttonglowhover1:hover {
+  cursor: pointer;
+  transform: scale(1.17);
+  box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
+}
+.buttonglowhover2:hover {
+  cursor: pointer;
+  transform: scale(1.17);
+  box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
+}
+.buttonglowhover3:hover {
+  cursor: pointer;
+  transform: scale(1.17);
+  box-shadow: 0 0px 34px 0 rgba(0,255,255,1),0 0px 70px 0 rgba(0,255,255,0.6);
+}
 
 PurplePikachuMiner {
   border-radius: 12%;
