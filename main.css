@@ -251,7 +251,7 @@ Years10OfFoxHominid {
   position: absolute;
   z-index: 1;
   top: 90px;
-  left: 20px;
+  left: 300px;
 }
 
 FoxHominidNewVsFoxHominidOld {
@@ -260,5 +260,15 @@ FoxHominidNewVsFoxHominidOld {
   position: absolute;
   z-index: 1;
   top: 90px;
-  left: 300px;
+  left: 20px;
 }
+
+FoxHominidFirstVideo {
+  transition: .3s ease-in-out 0s;
+  border-radius: 18%;
+  position: absolute;
+  z-index: 1;
+  top: 90px;
+  left: 580px;
+}
+
