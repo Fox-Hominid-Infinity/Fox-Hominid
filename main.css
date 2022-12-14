@@ -61,6 +61,14 @@ MinecraftChickenMiner {
   top: 160px;
   left: 860px;
 }
+PurplePikachuPlatformJump {
+  transition: .3s ease-in-out 0s;
+  border-radius: 18%;
+  position: absolute;
+  z-index: 2;
+  top: 440px;
+  left: 20px;
+}
 #header {
   width: 100%;
   position: fixed;
@@ -242,6 +250,14 @@ TotalGameScore {
   position: absolute;
   z-index: 1;
   top: 370px;
+  left: 900px;
+}
+#PPPJScore {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+  z-index: 1;
+  top: 645px;
   left: 900px;
 }
 
