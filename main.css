@@ -69,6 +69,14 @@ PurplePikachuPlatformJump {
   top: 440px;
   left: 20px;
 }
+FoxHominidPlatformJump {
+  transition: .3s ease-in-out 0s;
+  border-radius: 18%;
+  position: absolute;
+  z-index: 2;
+  top: 440px;
+  left: 300px;
+}
 #header {
   width: 100%;
   position: fixed;
@@ -259,6 +267,14 @@ TotalGameScore {
   z-index: 1;
   top: 645px;
   left: 60px;
+}
+#FHPJScore {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+  z-index: 1;
+  top: 645px;
+  left: 340px;
 }
 
 Years10OfFoxHominid {
