@@ -3,6 +3,7 @@
     <title>Fox Hominid Official</title>
     <link rel="stylesheet" type="text/css" href="main.css" />
     <link rel="stylesheet" type="text/css" href="particle.css">
+    <script src="js/ScoreTest.js"></script>
   </head>
   <body>
     <FoxHominidLogo>
@@ -37,7 +38,11 @@
       <p>This Games In Play Videos</p>
     </div>
     <div class="footer">
-      <p>©2023 Fox Hominid Purple Infinity Future Hexagon</p>
-    </div> 
+      <div id="footer">
+      </div> 
+      <script>
+        document.getElementById("footer").innerHTML = ("©" + Year_Date + " Fox Hominid Purple Infinity Future Hexagon");
+      </script>
+    </div>
   </body>
 </html>
