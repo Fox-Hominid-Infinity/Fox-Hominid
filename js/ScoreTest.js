@@ -10,6 +10,10 @@ var ore_block_last_value_MCM = 0;
 var Owned_Buy_Got_Character_Object = 0;
 var totallevelsvar = 0;
 
+
+var Year_Date = 2023;
+
+
 Owned_Buy_Got_Character_Object = JSON.parse(localStorage.getItem("OwnedCharacterSaveFHEY"));
 ore_block_last_value = JSON.parse(localStorage.getItem("OreBlockLastSave"));
 ore_block_last_value_FHM = JSON.parse(localStorage.getItem("OreBlockLastSaveFHM"));
