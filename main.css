@@ -207,6 +207,7 @@ GamesFullscreen {
 DressUpFullscreen {
   position: absolute;
   z-index: 1;
+  border-radius: 18%;
   top: 100px;
   left: 50%;
   margin-right: -50%;
