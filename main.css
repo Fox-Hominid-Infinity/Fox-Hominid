@@ -304,3 +304,8 @@ FoxHominidFirstVideo {
   left: 580px;
 }
 
+#footeryear {
+  color: #00ffff;
+  font-size: 30px;
+  position: absolute;
+}
