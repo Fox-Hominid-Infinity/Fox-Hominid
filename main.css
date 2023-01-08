@@ -306,7 +306,8 @@ FoxHominidFirstVideo {
 
 #footeryear {
   color: #00ffff;
-  bottom: 70;
+  bottom: -70;
+  padding: 10px 80px;
   font-size: 30px;
   position: absolute;
 }
