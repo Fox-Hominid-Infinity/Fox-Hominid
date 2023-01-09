@@ -2,6 +2,7 @@
   <head>
     <title>Minecraft Chicken Miner's</title>
     <link rel="stylesheet" type="text/css" href="main.css" />
+    <script src="js/ScoreTest.js"></script>
   </head>
   <body>
     <div id="header">Fox</div>
@@ -27,7 +28,11 @@
       <a href="https://fox-hominid.fandom.com/wiki/Fox_Hominid_Wiki" class="gameslink" title="Wiki" style="color:rgb(0,255,255)">Wiki</a>
     </Wiki>
     <div class="footer">
-      <p>©2022 Fox Hominid Purple Infinity Future Hexagon</p>
+      <div id="footer">
+      </div> 
+      <script>
+        document.getElementById("footer").innerHTML = ("©" + Year_Date + " Fox Hominid Purple Infinity Future Hexagon");
+      </script>
     </div>
     <GamesFullscreen>
       <iframe width="640" height="480" src="https://fox-hominid-infinity.github.io/Minecraft-Chicken-Miner-s/">
