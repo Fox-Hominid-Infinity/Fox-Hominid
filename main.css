@@ -321,3 +321,12 @@ FoxHominidTestBattleWorld {
   font-size: 30px;
   position: absolute;
 }
+
+FoxHominidNewVsFoxHominidOld2 {
+  transition: .3s ease-in-out 0s;
+  border-radius: 18%;
+  position: absolute;
+  z-index: 1;
+  top: 260px;
+  left: 20px;
+}
