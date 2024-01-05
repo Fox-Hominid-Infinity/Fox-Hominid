@@ -11,7 +11,7 @@ var Owned_Buy_Got_Character_Object = 0;
 var totallevelsvar = 0;
 
 
-var Year_Date = 2023;
+var Year_Date = 2024;
 
 
 Owned_Buy_Got_Character_Object = JSON.parse(localStorage.getItem("OwnedCharacterSaveFHEY"));
