@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
 body {     
   background-image:    url(images/WebackgroundHexagonDarkCyan.gif);
   background-color: #000000;
@@ -6,7 +8,7 @@ body {
   background-repeat:   no-repeat;
   background-position: center 0%; 
   position: relative;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: 'Source Sans Pro';
   font-weight: 100;
 }
 ParticleFix {
