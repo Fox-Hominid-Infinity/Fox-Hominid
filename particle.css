@@ -44,6 +44,8 @@ canvas{
 #particles-js{
   width: 100%;
   height: 100%;
+  background-color: #002020;
+  background-image: url('images/WebackgroundHexagonDarkCyan.gif');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
