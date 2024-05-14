@@ -58,8 +58,8 @@ canvas{
   text-indent: 4px;
   line-height: 14px;
   padding-bottom: 2px;
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight: bold;
+  font-family: Source Sans Pro, sans-serif;
+  font-weight: 100;
 }
 
 .js-count-particles{
