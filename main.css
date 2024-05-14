@@ -114,6 +114,7 @@ Videos {
 DressUp {
   position: fixed;
   z-index: 8;
+  border-radius: 18%;
   font-size: 40px;
   top: 5;  
   left: 690;  
