@@ -20,6 +20,7 @@ ore_block_last_value_FHM = JSON.parse(localStorage.getItem("OreBlockLastSaveFHM"
 ore_block_last_value_MCM = JSON.parse(localStorage.getItem("OreBlockLastSaveMCM"));
 totallevelsvar = JSON.parse(localStorage.getItem("TotalLevelSavePPPJ"));
 
+
 TotalScoreVars = ore_block_last_value_MCM
 TotalScoreVars += ore_block_last_value_FHM
 TotalScoreVars += ore_block_last_value
